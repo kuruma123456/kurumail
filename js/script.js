@@ -1,1 +1,1 @@
-let maildata: a;
+let maildata "0";
